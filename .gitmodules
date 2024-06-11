@@ -1,3 +1,0 @@
-[submodule "TSSV"]
-	path = TSSV
-	url = https://github.com/TypeScriptSystemVerilog/TSSV.git
